@@ -18,6 +18,7 @@ Option `coin` useful for pools without algorithm negotiation support or daemon t
 | `argon2/wrkz` | 256 KB | 3.1.0+ | Argon2id (WRKZ) |
 | `rx/wow` | 1 MB | 3.0.0+ | RandomWOW (RandomX variant for Wownero). |
 | `rx/loki` | 2 MB | 3.0.0+ | RandomXL (RandomX variant for Loki). |
+| `rx/lux` | 2 MB | 3.0.0+ | RandomX2 (RandomX variant for LUX). |
 | `cn/fast` | 2 MB | 3.0.0+ | CryptoNight variant 1 with half iterations. |
 | `cn/rwz` | 2 MB | 2.14.0+ | CryptoNight variant 2 with 3/4 iterations and reversed shuffle operation. |
 | `cn/zls` | 2 MB | 2.14.0+ | CryptoNight variant 2 with 3/4 iterations. |

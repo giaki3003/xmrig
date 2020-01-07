@@ -69,6 +69,7 @@ public:
         RX_ARQ,        // "rx/arq"           RandomARQ (Arqma).
         AR2_CHUKWA,    // "argon2/chukwa"    Argon2id (Chukwa).
         AR2_WRKZ,      // "argon2/wrkz"      Argon2id (WRKZ)
+        RX_LUX,        // "rx/lux"           RandomX2 (Lux).
         MAX
     };
 

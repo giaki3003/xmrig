@@ -49,6 +49,9 @@ const RandomX_ConfigurationBase *xmrig::RxAlgo::base(Algorithm::Id algorithm)
     case Algorithm::RX_ARQ:
         return &RandomX_ArqmaConfig;
 
+    case Algorithm::RX_LUX:
+        return &RandomX_LuxConfig;
+
     default:
         break;
     }
