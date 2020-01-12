@@ -111,9 +111,6 @@ RandomX_ConfigurationLux::RandomX_ConfigurationLux()
     RANDOMX_FREQ_FSUB_R = 20;
     RANDOMX_FREQ_FMUL_R = 20;
     RANDOMX_FREQ_CBRANCH = 16;
-    RANDOMX_FREQ_ISWAP_R = 2;
-    RANDOMX_FREQ_FSCAL_R = 4;
-    RANDOMX_FREQ_ISTORE = 8;
 }
 
 RandomX_ConfigurationBase::RandomX_ConfigurationBase()
